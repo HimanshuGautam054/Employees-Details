@@ -1,4 +1,5 @@
 Hello, Github community
+
 I’m excited to share a recent project where I utilized SQL and Tableau to analyze employee details.
 
 I used SQL to extract and clean employee data from the Employee detail database, then created an interactive dashboard in Tableau. 
